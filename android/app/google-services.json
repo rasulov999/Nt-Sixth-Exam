@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176756223633",
+    "project_id": "nt-sixth-exam",
+    "storage_bucket": "nt-sixth-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176756223633:android:c012c1c75bed0b9da81930",
+        "android_client_info": {
+          "package_name": "com.example.nt_sixth_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176756223633-028kn68hhr6kuiepouii1hud5vm6hl3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nt_sixth_exam",
+            "certificate_hash": "299136349c51a30bbcedf0c9e7e7ba3c8d8e86ea"
+          }
+        },
+        {
+          "client_id": "176756223633-bs86p107cq2lj4bj72bqdb0ce5pv4ecb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEeSNuKAUK__OwV1KsyX4xO9mbuBUICNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176756223633-bs86p107cq2lj4bj72bqdb0ce5pv4ecb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
